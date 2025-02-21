@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 3 Ввод данн�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4", "Lesson4\Lesson4.csproj", "{BE0124B7-F74D-4E2C-A86E-D8DBBB0F4443}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5", "Lesson5\Lesson5.csproj", "{EC03873E-A935-44D4-9082-88620B4C7F07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5 Конвертация", "Lesson5\Lesson5 Конвертация.csproj", "{EC03873E-A935-44D4-9082-88620B4C7F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6 Конвертация(иной способ)", "Lesson6\Lesson6 Конвертация(иной способ).csproj", "{8719D366-AC5F-46CD-AE32-9104A519094F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{EC03873E-A935-44D4-9082-88620B4C7F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC03873E-A935-44D4-9082-88620B4C7F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC03873E-A935-44D4-9082-88620B4C7F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8719D366-AC5F-46CD-AE32-9104A519094F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8719D366-AC5F-46CD-AE32-9104A519094F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8719D366-AC5F-46CD-AE32-9104A519094F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8719D366-AC5F-46CD-AE32-9104A519094F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
